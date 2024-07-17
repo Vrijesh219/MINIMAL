@@ -1,23 +1,22 @@
-
 5/16/2024
-1	11:00 am to 02:00 pm		
-2	08:00 pm to 11:00pm		
+1	11:00 am to 02:00 pm-(1-5) Introduction to HTML, CSS, JavaScript 		
+2	08:00 pm to 11:00pm-(5-7))  Lists and Tables and tags 		
 				
 5/17/2024
-1	2:00 pm to 05:00 pm		
-2	07:00 pm to 9:30pm		
+1	2:00 pm to 05:00 pm-(8-10) Inline & Block Elements 		
+2	07:00 pm to 9:30pm-(11-13) Semantic Tags in HTML 		
 				
 5/18/2024
-1	9:00 am to 12:00 pm		
-2	02:00 pm to 05:00pm			
+1	9:00 am to 12:00 pm-(14-16)   Inline, Internal & External CSS 		
+2	02:00 pm to 05:00pm-(17-18)  CSS Box Model, Margin and Padding 			
 				
 5/20/2024
-1	10:00 am to 01:00 pm						
-2	02:00 pm to 05:00pm		
+1	10:00 am to 01:00 pm-(19-20)  Creating a Navigation Menu 						
+2	02:00 pm to 05:00pm-(20-23) Styling Links & Buttons 		
 				
 5/21/2024
-1	10:00 am to 01:00 pm		
-2	02:00 pm to 05:00pm		
+1	10:00 am to 01:00 pm-(24-25) Position absolute, relative, fixed and sticky in		
+2	02:00 pm to 05:00pm-Project-1 		
 				
 5/22/2024	
 1	11:00 am to 02:00 pm	Introduction to Html, Basic Structure Of Website,  Looking through details of my website	
@@ -88,21 +87,12 @@
 2	02:00 pm to 05:00pm	Final review of the project 1 given by the company	
 				
 6/11/2024
-1	10:00 am to 01:00 pm		
-2	02:00 pm to 05:00pm		
+
+1	10:00 am to 01:00 pm-(1-5) Introduction to HTML, CSS, JavaScript 		
+2	02:00 pm to 05:00pm-(5-7))  Lists and Tables and tags 		
 				
 6/12/2024	
-1	10:00 am to 01:00 pm		
-2	02:00 pm to 05:00pm		
+1	10:00 am to 01:00 pm-(8-10) Inline & Block Elements		
+2	02:00 pm to 05:00pm-(11-13) Semantic Tags in HTML 		
 				
-6/13/2024	
-1	10:00 am to 01:00 pm		
-2	02:00 pm to 05:00pm		
-				
-6/14/2024	
-1	10:00 am to 01:00 pm		
-2	02:00 pm to 05:00pm		
-				
-6/15/2024	
-1	10:00 am to 01:00 pm		
-2	02:00 pm to 05:00pm		
+6/13/2024 to 6/15/2024 REVIEW 	
