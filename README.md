@@ -1,3 +1,33 @@
+Summerinternship2024_22IT128
+
+4th Sem Summer Internship
+
+
+Welcome to my github repository for the Summer Internship 2024!
+This project showcases the work done during the internship.
+
+🚀 Introduction 🚀
+
+• In traditional educational and professional settings, the process of administering 
+quizzes often faces challenges related to logistics, time constraints, and resource 
+allocation. Physical constraints such as limited space and time availability restrict the 
+frequency and scale of quiz sessions, hindering the timely evaluation and feedback 
+process. Additionally, manual grading procedures are labor-intensive and prone to 
+errors, leading to delays in result dissemination and feedback provision. Furthermore, 
+the transition to remote learning and assessment necessitates a robust and user
+friendly platform to facilitate the administration and participation of quizzes online. 
+• Thus, there is a pressing need for an efficient and scalable solution that addresses these 
+challenges by providing a comprehensive online quiz application. This application 
+should offer features such as user registration, quiz creation and management, real
+time quiz sessions, automated scoring, and detailed result analysis. By overcoming 
+the limitations of traditional quiz administration methods and leveraging the 
+capabilities of modern web technologies, such an application can revolutionize the 
+way quizzes are conducted, evaluated, and utilized for educational and professional 
+purposes.
+
+
+Start Of Internship
+
 5/16/2024
 1	11:00 am to 02:00 pm-(1-5) Introduction to HTML, CSS, JavaScript 		
 2	08:00 pm to 11:00pm-(5-7))  Lists and Tables and tags 		
